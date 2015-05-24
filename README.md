@@ -2,7 +2,7 @@
 {Epitech} Machine virtuelle et complileur.
 
 # L'essentiel
-    * Un compileur fonctionnel pour champion CoreWar.
+    * Un compilateur fonctionnel pour champion CoreWar (*.s).
     * Compile sans diff avec le binaire de référence. 
     * Gestion de l'overflow, des réference indéfinies et output détaillé.
     * Une machine virtuelle complète et fonctionnelle.
